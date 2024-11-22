@@ -7,6 +7,7 @@ The suggestions from the model selector are intended to act as a first pass at e
 
 Additionally, the repository includes code for exploring an ensemble modeling approach which combines the streamflow predictions of multiple hydrologic models. We compare this approach to that of any one hydrologic model involved in our study, and find that ensemble modeling provides valuable predictive skill. 
 
+This work was conducted as part of the CUAHSI National Water Center Summer Insitute. The full report is available [here](https://www.cuahsi.org/uploads/library/doc/SI2022_Report_v1.2.docx.pdf).
 This work was presented at AGU in 2022. The presentation is available [here](https://github.com/NWC-CUAHSI-Summer-Institute/nextgen-model-selection/blob/main/LBolotin_AGU_Poster_2022.pdf). 
 
 <img width="791" alt="Screenshot 2024-11-22 at 10 12 20 AM" src="https://github.com/user-attachments/assets/574eb0ec-e6c8-4acb-ac1c-0732408942ce">

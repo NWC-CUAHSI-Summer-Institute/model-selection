@@ -11,3 +11,10 @@ This work was conducted as part of the CUAHSI National Water Center Summer Insit
 This work was presented at AGU in 2022. The presentation is available [here](https://github.com/NWC-CUAHSI-Summer-Institute/nextgen-model-selection/blob/main/LBolotin_AGU_Poster_2022.pdf). The code in this repository is a clean, finalized version of the original code, which is stored in [this repo](https://github.com/bolotinl/nextgen-form-eval).
 
 <img width="791" alt="Screenshot 2024-11-22 at 10 12 20 AM" src="https://github.com/user-attachments/assets/574eb0ec-e6c8-4acb-ac1c-0732408942ce">
+
+### Results for 495 CAMELS Basins:
+<img width="682" alt="Screenshot 2024-11-26 at 12 44 05 PM" src="https://github.com/user-attachments/assets/c1d78aaf-ba06-4edb-bca8-24c0b67a70c6">
+
+<img width="902" alt="Screenshot 2024-11-26 at 12 48 27 PM" src="https://github.com/user-attachments/assets/f75e1789-0337-4150-b11c-f6b0cb68c659">
+
+*BAM = Best Actual Model, BPM = Best Predicted Model, WE = Weighted Ensemble
